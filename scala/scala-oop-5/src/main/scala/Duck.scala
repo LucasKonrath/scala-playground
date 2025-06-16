@@ -1,0 +1,1 @@
+class Duck extends Flyable with Swimmable with Walkable
